@@ -1,0 +1,1 @@
+#gcc -std=c99 strip_aff_intg.c -o test_stripping_intg.o -Wall -g -I/ccs/home/xiangg/phy138hot_share/software/build/build2/parts/aff/tree/lib -L/ccs/home/build/build2/parts/aff/tree/lib -llhpc-aff

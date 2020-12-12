@@ -1,0 +1,4 @@
+qx0_qy0_qz2
+qx0_qy0_qz-2
+qx0_qy-2_qz0
+qx0_qy2_qz0
