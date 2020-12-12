@@ -1,0 +1,24 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch1>
+Subject: Job 314121: <stp.src110> in cluster <summit> Done
+
+Job <stp.src110> was submitted from host <login1> by user <xiangg> in cluster <summit> at Mon Aug 31 22:08:39 2020
+Job was executed on host(s) <1*batch1>, in queue <batch-hm>, as user <xiangg> in cluster <summit> at Tue Sep  1 01:02:25 2020
+                            <42*c37n01>
+                            <42*c37n02>
+                            <42*c37n03>
+                            <42*c37n04>
+                            <42*c37n05>
+                            <42*c37n06>
+                            <42*c37n07>
+                            <42*c37n08>
+                            <42*c37n09>
+</ccs/home/xiangg> was used as the home directory.
+</ccs/home/xiangg/phy138hot_share/data/l64c64a076/C_strip> was used as the working directory.
+Started at Tue Sep  1 01:02:25 2020
+Terminated at Tue Sep  1 06:55:48 2020
+Results reported at Tue Sep  1 06:55:48 2020
+
+The output (if any) is above this job summary.
+

@@ -1,0 +1,19 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch1>
+Subject: Job 297876: <comb.src100> in cluster <summit> Done
+
+Job <comb.src100> was submitted from host <login5> by user <xiangg> in cluster <summit> at Mon Aug 24 03:10:00 2020
+Job was executed on host(s) <1*batch1>, in queue <batch>, as user <xiangg> in cluster <summit> at Mon Aug 24 03:10:11 2020
+                            <42*h36n10>
+                            <42*h36n11>
+                            <42*h36n15>
+                            <42*h50n01>
+</ccs/home/xiangg> was used as the home directory.
+</ccs/home/xiangg/phy138hot_share/data/l64c64a076/C_strip/scripts/py_src100> was used as the working directory.
+Started at Mon Aug 24 03:10:11 2020
+Terminated at Mon Aug 24 03:52:12 2020
+Results reported at Mon Aug 24 03:52:12 2020
+
+The output (if any) is above this job summary.
+

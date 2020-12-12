@@ -1,0 +1,18 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch2>
+Subject: Job 330874: <comb.src011> in cluster <summit> Done
+
+Job <comb.src011> was submitted from host <login3> by user <xiangg> in cluster <summit> at Wed Sep  9 08:29:57 2020
+Job was executed on host(s) <1*batch2>, in queue <batch>, as user <xiangg> in cluster <summit> at Wed Sep  9 08:30:11 2020
+                            <42*a07n02>
+                            <42*a31n05>
+                            <42*a31n06>
+</ccs/home/xiangg> was used as the home directory.
+</ccs/home/xiangg/phy138hot_share/data/l64c64a076/C_strip/scripts/py_src011> was used as the working directory.
+Started at Wed Sep  9 08:30:11 2020
+Terminated at Wed Sep  9 09:04:20 2020
+Results reported at Wed Sep  9 09:04:20 2020
+
+The output (if any) is above this job summary.
+

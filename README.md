@@ -1,1 +1,0 @@
-# Aff_stripping
