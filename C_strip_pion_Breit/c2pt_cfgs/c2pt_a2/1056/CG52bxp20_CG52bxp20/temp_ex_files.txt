@@ -1,0 +1,1 @@
+data/stream_a2_breit/c2pt/c2pt.1056.ex.CG52bxp20_CG52bxp20.x16y16z48t16.aff,c2pt_cfgs/c2pt_a2/1056/CG52bxp20_CG52bxp20/temp_ex_paths_src1.txt

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cfglist=`cat list/list.cfg.breit.a3`
-path_in='data/stream_a3/c2pt_breit_new'
-path_out="c2pt_cfgs/c2pt_a3"
+cfglist=`cat list/list_test`
+path_in='data/stream_a2_breit/c2pt'
+path_out="c2pt_cfgs/c2pt_a2"
 mkdir -p $path_out 1>/dev/null 2>&1
 gm='meson_g15'
 #bxplist=('CG52bxp00_CG52bxp00' 'CG52bxp20_CG52bxp20' 'CG52bxp30_CG52bxp30')
